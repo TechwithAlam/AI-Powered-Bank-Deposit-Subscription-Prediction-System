@@ -205,11 +205,9 @@ Bank_Deposit_Prediction/
 │
 ├── models/
 │   └── random_forest_model.pkl
-│
-├── images/
-│   ├── confusion_matrix.png
-│   ├── roc_curve.png
-│   └── feature_importance.png
+│       scaler.pkl
+│       model.pkl
+│       bank_deposit_model.pkl
 │
 ├── README.md
 │
